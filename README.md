@@ -13,7 +13,7 @@
 
 - 📫 How to reach me - **[Discord](https://discord.com/users/1293198183433900135)**
 
--
+- 🟢 Am I online? ⬇️ (If gray = offline, if any else = online!)
 [![Discord Presence](https://lanyard.cnrad.dev/api/1293198183433900135?idleMessage=I%20code%20%3AD&showDisplayName=true)](https://discord.com/users/1293198183433900135)
 
 
